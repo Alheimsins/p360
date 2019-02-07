@@ -1,0 +1,42 @@
+{
+  "name": "p360",
+  "version": "1.0.0",
+  "description": "Wrapper for Public 360 SIF SOAP Web Service from tieto",
+  "license": "MIT",
+  "author": {
+    "name": "Jonas Enge",
+    "email": "jonas.enge@t-fk.no",
+    "url": "https://github.com/maccyber"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && npm audit && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls"
+  },
+  "keywords": [
+    "Telemark fylkeskommune",
+    "tfk",
+    "360",
+    "public 360",
+    "SIF"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alheimsins/p360.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maccyber/alheimsins/issues"
+  },
+  "homepage": "https://github.com/maccyber/alheimsins#readme",
+  "dependencies": {
+    "strong-soap": "1.15.0"
+  },
+  "devDependencies": {
+    "ava": "1.2.1",
+    "coveralls": "3.0.2",
+    "nyc": "13.2.0",
+    "standard": "12.0.1"
+  }
+}
