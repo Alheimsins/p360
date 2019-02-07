@@ -1,5 +1,5 @@
 {
-  "name": "p360",
+  "name": "@alheimsins/p360",
   "version": "1.0.0",
   "description": "Wrapper for Public 360 SIF SOAP Web Service from tieto",
   "license": "MIT",
@@ -22,6 +22,9 @@
     "public 360",
     "SIF"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alheimsins/p360.git"

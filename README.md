@@ -8,7 +8,7 @@ Node wrapper module for Public 360 SIF SOAP Web Service from [Tieto](https://www
 # Installation
 
 ```bash
-$ npm install alheimsins@p360 --save
+$ npm install @alheimsins/p360 --save
 ```
 
 ## SIF documentation
@@ -21,7 +21,7 @@ For a full list of calls and callbacks see the documentation  [here](https://git
 
 ```JavaScript
 (async () => {
-  const p360 = require('alheimsins@p360')
+  const p360 = require('@alheimsins/p360')
 
   const options = {
     baseUrl: 'http://server.domain.no:8088/SI.WS.Core/SIF',
