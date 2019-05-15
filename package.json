@@ -37,7 +37,7 @@
     "strong-soap": "1.19.1"
   },
   "devDependencies": {
-    "ava": "1.2.1",
+    "ava": "1.4.1",
     "coveralls": "3.0.2",
     "nyc": "14.1.1",
     "standard": "12.0.1"
