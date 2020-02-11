@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/maccyber/alheimsins#readme",
   "dependencies": {
-    "strong-soap": "1.21.0"
+    "strong-soap": "1.22.0"
   },
   "devDependencies": {
     "ava": "3.3.0",
