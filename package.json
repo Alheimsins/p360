@@ -11,8 +11,8 @@
   "contributors": [
     {
       "name": "Geir Gåsodden",
-    "email": "geir.gasodden@pythonia.no",
-    "url": "https://github.com/zrrrzzt"
+      "email": "geir.gasodden@pythonia.no",
+      "url": "https://github.com/zrrrzzt"
     }
   ],
   "main": "index.js",
@@ -20,7 +20,9 @@
     "test": "standard && npm audit && ava",
     "test-offline": "standard && ava",
     "coverage": "nyc ava",
-    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls"
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [
     "Telemark fylkeskommune",
