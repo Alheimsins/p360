@@ -1,6 +1,6 @@
 {
   "name": "@alheimsins/p360",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wrapper for Public 360 SIF SOAP Web Service from tieto",
   "license": "MIT",
   "author": {
