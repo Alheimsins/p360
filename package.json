@@ -8,6 +8,13 @@
     "email": "jonas.enge@t-fk.no",
     "url": "https://github.com/maccyber"
   },
+  "contributors": [
+    {
+      "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+    }
+  ],
   "main": "index.js",
   "scripts": {
     "test": "standard && npm audit && ava",
