@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/alheimsins/node-p360.svg?branch=master)](https://travis-ci.org/telemark/node-p360)
+[![Build Status](https://travis-ci.com/Alheimsins/p360.svg?branch=master)](https://travis-ci.com/Alheimsins/p360)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # p360
@@ -39,3 +39,13 @@ For a full list of calls and callbacks see the documentation  [here](https://git
   }
 })()
 ```
+
+## License
+
+[MIT](LICENSE)
+
+## About
+
+Created with <3 by [Alheimsins](https://github.com/Alheimsins)
+
+![Alheimsins symbol](https://file-qwoleuymtm.now.sh "Alheimsins symbol")
