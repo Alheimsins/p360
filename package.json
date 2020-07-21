@@ -30,9 +30,9 @@
     "url": "git+https://github.com/alheimsins/p360.git"
   },
   "bugs": {
-    "url": "https://github.com/maccyber/alheimsins/issues"
+    "url": "https://github.com/alheimsins/p360/issues"
   },
-  "homepage": "https://github.com/maccyber/alheimsins#readme",
+  "homepage": "https://github.com/alheimsins/p360#readme",
   "dependencies": {
     "strong-soap": "2.0.0"
   },
