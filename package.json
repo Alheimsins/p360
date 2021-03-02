@@ -43,7 +43,7 @@
   },
   "homepage": "https://github.com/alheimsins/p360#readme",
   "dependencies": {
-    "strong-soap": "2.0.0"
+    "strong-soap": "3.0.0"
   },
   "devDependencies": {
     "ava": "3.15.0",
